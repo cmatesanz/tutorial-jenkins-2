@@ -1,4 +1,4 @@
-# Curso DevOps Axpe Consulting – Configuración pipeline
+# Curso DevOps – Configuración pipeline
 
 
 ## Información
